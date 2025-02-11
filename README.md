@@ -7,7 +7,6 @@ This project demonstrates the implementation of the **VIPER architecture** in an
 - **VIPER Architecture**: Separation of concerns between View, Interactor, Presenter, Entity, and Router.
 - **SwiftUI**: Declarative UI framework for creating modern, responsive user interfaces.
 - **Drag & Drop**: Implemented a drag-and-drop list for dynamic reordering of items.
-- **LinkedIn Sharing**: Integrated functionality to share content on **LinkedIn** via the share sheet and URL schemes.
 - **Custom UI**: SwiftUI views that bind to **ObservableObject**, enabling seamless state management.
 
 ## Architecture
